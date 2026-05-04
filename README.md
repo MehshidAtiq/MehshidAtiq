@@ -1,6 +1,6 @@
 ### Hi there 👋I am Mehshid Atiq!
 
 ### About Me
-- 🔭 CS Undergrad at Bilkent university, Ankara
+- 🔭 ML/AI Master's Student at TU Darmstadt, Germany
 
 
