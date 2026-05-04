@@ -1,6 +1,6 @@
 ### Hi there 👋I am Mehshid Atiq!
 
 ### About Me
-- 🔭 ML/AI Master's Student at TU Darmstadt, Germany
+- 🔭 AI/ML Master's Student at TU Darmstadt, Germany
 
 
